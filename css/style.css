@@ -1,4 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Asap:wght@200;500&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cairo&display=swap');
 
 :root {
     --navbar_bg: rgb(127, 155, 208);
@@ -10,7 +11,7 @@
 * {
     margin: 0;
     padding: 0;
-    font-family: 'Asap', sans-serif !important;
+    font-family: 'Cairo', sans-serif !important;
     box-sizing: border-box;
 }
 
@@ -102,4 +103,7 @@
 }
 .slider-area{
     background-color: #fff !important;
+}
+.font66{
+    font-size: 22px;
 }
